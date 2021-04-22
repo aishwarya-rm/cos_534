@@ -60,3 +60,18 @@ labs_dict_icu = {'K': [227442, 227464],
                  'Troponin': [227429], 
                  'CRP': [227444], 
                  'Fibrinogen': [227468]}
+
+meds_list = ['betablockers', 'ca-iv',
+       'ca-noniv', 'cablockers', 'dextrose', 'fluids', 'insulin', 'k-iv',
+       'hours-k-iv', 'loopdiuretics', 'mg-iv', 'mg-noniv', 'hours-mg-noniv',
+       'p-iv', 'p-noniv', 'pnutrition', 'ponutrition', 'packedrbc',
+       'paralytics', 'sedation', 'tpnutrition', 'vasoactive', 'vasopressors',
+       'hours-p-iv']
+
+labs_list = ['alb', 'aniongap', 'bun', 'crp', 'ca', 'chloride', 'creatinine', 'fibrinogen', 
+             'glucose', 'hgb', 'k', 'mg', 'na', 'p', 'platelets', 'troponin', 'wbc']
+
+vitals_list = ['apneainterval', 'artco2p', 'arto2p', 'expratio',
+       'hr', 'inspratio', 'insptime', 'nibpd', 'nibpm', 'nibps', 'pip', 'rr',
+       'spo2', 'temp', 'urine', 'vm', 'vt', ]
+
