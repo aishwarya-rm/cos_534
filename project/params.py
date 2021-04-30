@@ -75,3 +75,17 @@ vitals_list = ['apneainterval', 'artco2p', 'arto2p', 'expratio',
        'hr', 'inspratio', 'insptime', 'nibpd', 'nibpm', 'nibps', 'pip', 'rr',
        'spo2', 'temp', 'urine', 'vm', 'vt', ]
 
+vent_dict =  {"O2flow": [223834], 
+             "FiO2": [223835],
+             "PEEPset": [220339], 
+             "Vtset": [224684], 
+             "RRset": [224688],
+             "CuffP": [224417], 
+             "MeanAP": [224697], 
+             "PlateauP": [224696], 
+             "PSV": [224701], 
+             "Humidification": [227517], 
+             "Proning": [224093], 
+             "Angle": [224080],
+             "NO": [224749]}
+
